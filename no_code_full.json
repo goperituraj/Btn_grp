@@ -1,0 +1,468 @@
+{
+  "blocks": {
+    "b_zc67rr": {
+      "component": {
+        "componentType": "ButtonGroup",
+        "appearance": {
+          "layoutDirection": "HORIZONTAL",
+          "spacing": 8,
+          "padding": {
+            "left": 8,
+            "right": 8,
+            "top": 4,
+            "bottom": 4
+          },
+          "backgroundColor": null,
+          "border": {
+            "width": 1,
+            "color": "#cfd4de"
+          },
+          "borderRadius": 8,
+          "shadow": [
+            {
+              "color": "rgba(16,24,40,0.05000000074505806)",
+              "offsetX": 0,
+              "offsetY": 1,
+              "blur": 2
+            }
+          ],
+          "opacity": 1,
+          "blendMode": "PASS_THROUGH"
+        },
+        "content": {
+          "mode": "manual",
+          "options": {
+            "data": [
+              {
+                "id": "button1",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button2",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button3",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button4",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button5",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button6",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button7",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              },
+              {
+                "id": "button8",
+                "label": "Text",
+                "icon": null,
+                "iconSize": null,
+                "backgroundColor": "#ffffff",
+                "border": {
+                  "width": 1,
+                  "color": "#cfd4de"
+                },
+                "borderRadius": 0,
+                "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+                },
+                "font": {
+                  "fontFamily": "Inter",
+                  "fontWeight": 600,
+                  "fontSize": 14,
+                  "textColor": "#667085"
+                },
+                "states": [
+                  {
+                    "state": "🔀 Icon swap#3473:0",
+                    "value": "1:967"
+                  },
+                  {
+                    "state": "Size",
+                    "value": "md"
+                  },
+                  {
+                    "state": "Current",
+                    "value": "False"
+                  },
+                  {
+                    "state": "Icon",
+                    "value": "False"
+                  },
+                  {
+                    "state": "State",
+                    "value": "Default"
+                  }
+                ],
+                "opacity": 1
+              }
+            ]
+          },
+          "type": "default"
+        }
+      },
+      "visibility": {
+        "value": true
+      },
+      "displayName": "Button group",
+      "id": "b_zc67rr",
+      "parentId": "root_id"
+    },
+    "root_id": {
+      "component": {
+        "componentType": "Stack",
+        "appearance": {
+          "alignItems": "stretch",
+          "direction": "column",
+          "justifyContent": "flex-start",
+          "styles": {
+            "padding": {
+              "all": "p-xl"
+            },
+            "backgroundColor": "bg-workspace",
+            "gap": {
+              "all": "gap-md"
+            },
+            "width": "w-full",
+            "height": "h-full"
+          }
+        },
+        "content": {
+          "blockIds": [
+            "b_zc67rr"
+          ]
+        }
+      },
+      "visibility": {
+        "value": true
+      },
+      "displayName": "Body",
+      "additional": {
+        "isRootBlock": true
+      },
+      "id": "root_id"
+    }
+  },
+  "layout": {
+    "footer": "footer_id",
+    "header": "header_id",
+    "body": "root_id"
+  },
+  "interfaceType": "application",
+  "componentType": "PAGE",
+  "name": "Converted from Figma",
+  "slug": "figma-conversion"
+}
